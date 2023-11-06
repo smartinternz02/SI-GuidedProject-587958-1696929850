@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/kalloldutta/.gradle/caches/transforms-3/7ad563ee3dc9d24b965b27f1b5be77b8/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kalloldutta/.gradle/caches/transforms-3/2f9a9f7cbca8b56e9913f3c6d4a3dc6c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jama5262:CarouselView:1.2.2] /Users/kalloldutta/.gradle/caches/transforms-3/b8bee2f516870e768faf8f7dc2a732f6/transformed/jetified-CarouselView-1.2.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/427aa79e3b1a56b5aed3e9e0297068b8/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3b883931d664bd380d5c4e205fd6d522/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/434066d7dee7b82fe429f34e0346911d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kalloldutta/.gradle/caches/transforms-3/8d105ec515a0f2aebfa1668c915342ea/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/124a85280142499a2d21dd6e1dd2e867/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/54fcbeee69036b2a02058630ad93fe1a/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/bf0ec810c11677b9ded08631ef2a86d7/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/4962a33ceba1e07f5cf03168ed34308c/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8b7ab4ad8bd3f53c6e8e22827ef3f8c4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/9e5b04dc0f7d8418372b23b95f45834b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3cd43efd365f7c2f3c86e284dad1fa2e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/750ac15373baf10f5e042e9cfe02ef26/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/b4f29689624e2cfddb9232d5451ac56c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/38d8a35d2882c5dc98f9f9d95b8a655b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/687ae12ed2785f9738cd7cfbcb2e9fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/1c10d4eaab72dd2a4ac59e92425a577a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/04e58c97a97316bb13cda3fc4ce900ac/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/2a0f71a4224a400201e9fa4b768ad125/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/f4528597aad56f23208bb1ebe5c79bb6/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/e89869825e8074185aeb948dc6b54abd/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kalloldutta/.gradle/caches/transforms-3/3f214d5c06e1cabc8180313991ce1eff/transformed/jetified-shimmer-0.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/ddb1fadb7359008c229bcbf4efa235b2/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/fa68d6cdbfe82b03d8d8f9f140ff48af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kalloldutta/.gradle/caches/transforms-3/be6fcf85dcecb8bd53c9f90aa92aeba4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3dbcf4a5a145dee61571bcca3268b00b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/f74f9070e9f72a4ab33332d84f800031/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/c8b18e11eed404b34e03177a3b886560/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/4689a6556f9c1641220ee1508ea284ab/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/804e98e5c612990ca77ffb010fbb7e68/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/71b96a32910e2f91f27334232b1c9780/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.romandanylyk:pageindicatorview:1.0.3] /Users/kalloldutta/.gradle/caches/transforms-3/e789ebb1e8d349c867344b8dab5609d0/transformed/jetified-pageindicatorview-1.0.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:5:22-64
+queries
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:8:9-10:18
+action#android.intent.action.TTS_SERVICE
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:9:13-72
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:9:21-69
+application
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:13:5-36:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/kalloldutta/.gradle/caches/transforms-3/7ad563ee3dc9d24b965b27f1b5be77b8/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/kalloldutta/.gradle/caches/transforms-3/7ad563ee3dc9d24b965b27f1b5be77b8/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kalloldutta/.gradle/caches/transforms-3/2f9a9f7cbca8b56e9913f3c6d4a3dc6c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kalloldutta/.gradle/caches/transforms-3/2f9a9f7cbca8b56e9913f3c6d4a3dc6c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:16:9-33
+	android:roundIcon
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:19:9-45
+activity#com.example.newsapp.ReadNewsActivity
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:21:13-45
+activity#com.example.newsapp.MainActivity
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:launchMode
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:26:13-44
+	android:exported
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.newsapp.SavedNewsActivity
+ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:32:9-35:58
+	android:parentActivityName
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:35:13-55
+	android:label
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:34:13-39
+	android:name
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml:33:13-46
+uses-sdk
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.6.1] /Users/kalloldutta/.gradle/caches/transforms-3/7ad563ee3dc9d24b965b27f1b5be77b8/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/kalloldutta/.gradle/caches/transforms-3/7ad563ee3dc9d24b965b27f1b5be77b8/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kalloldutta/.gradle/caches/transforms-3/2f9a9f7cbca8b56e9913f3c6d4a3dc6c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kalloldutta/.gradle/caches/transforms-3/2f9a9f7cbca8b56e9913f3c6d4a3dc6c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jama5262:CarouselView:1.2.2] /Users/kalloldutta/.gradle/caches/transforms-3/b8bee2f516870e768faf8f7dc2a732f6/transformed/jetified-CarouselView-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jama5262:CarouselView:1.2.2] /Users/kalloldutta/.gradle/caches/transforms-3/b8bee2f516870e768faf8f7dc2a732f6/transformed/jetified-CarouselView-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/427aa79e3b1a56b5aed3e9e0297068b8/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/427aa79e3b1a56b5aed3e9e0297068b8/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3b883931d664bd380d5c4e205fd6d522/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3b883931d664bd380d5c4e205fd6d522/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/434066d7dee7b82fe429f34e0346911d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/434066d7dee7b82fe429f34e0346911d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kalloldutta/.gradle/caches/transforms-3/8d105ec515a0f2aebfa1668c915342ea/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kalloldutta/.gradle/caches/transforms-3/8d105ec515a0f2aebfa1668c915342ea/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/124a85280142499a2d21dd6e1dd2e867/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/124a85280142499a2d21dd6e1dd2e867/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/54fcbeee69036b2a02058630ad93fe1a/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/kalloldutta/.gradle/caches/transforms-3/54fcbeee69036b2a02058630ad93fe1a/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/bf0ec810c11677b9ded08631ef2a86d7/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/bf0ec810c11677b9ded08631ef2a86d7/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/4962a33ceba1e07f5cf03168ed34308c/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/4962a33ceba1e07f5cf03168ed34308c/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8b7ab4ad8bd3f53c6e8e22827ef3f8c4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8b7ab4ad8bd3f53c6e8e22827ef3f8c4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/9e5b04dc0f7d8418372b23b95f45834b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/9e5b04dc0f7d8418372b23b95f45834b/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3cd43efd365f7c2f3c86e284dad1fa2e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3cd43efd365f7c2f3c86e284dad1fa2e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/750ac15373baf10f5e042e9cfe02ef26/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/750ac15373baf10f5e042e9cfe02ef26/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/b4f29689624e2cfddb9232d5451ac56c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/b4f29689624e2cfddb9232d5451ac56c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/38d8a35d2882c5dc98f9f9d95b8a655b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/38d8a35d2882c5dc98f9f9d95b8a655b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/687ae12ed2785f9738cd7cfbcb2e9fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/687ae12ed2785f9738cd7cfbcb2e9fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/1c10d4eaab72dd2a4ac59e92425a577a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/1c10d4eaab72dd2a4ac59e92425a577a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/04e58c97a97316bb13cda3fc4ce900ac/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/04e58c97a97316bb13cda3fc4ce900ac/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/2a0f71a4224a400201e9fa4b768ad125/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/2a0f71a4224a400201e9fa4b768ad125/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/f4528597aad56f23208bb1ebe5c79bb6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/f4528597aad56f23208bb1ebe5c79bb6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/e89869825e8074185aeb948dc6b54abd/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/e89869825e8074185aeb948dc6b54abd/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kalloldutta/.gradle/caches/transforms-3/3f214d5c06e1cabc8180313991ce1eff/transformed/jetified-shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kalloldutta/.gradle/caches/transforms-3/3f214d5c06e1cabc8180313991ce1eff/transformed/jetified-shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/ddb1fadb7359008c229bcbf4efa235b2/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/ddb1fadb7359008c229bcbf4efa235b2/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/fa68d6cdbfe82b03d8d8f9f140ff48af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/fa68d6cdbfe82b03d8d8f9f140ff48af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kalloldutta/.gradle/caches/transforms-3/be6fcf85dcecb8bd53c9f90aa92aeba4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kalloldutta/.gradle/caches/transforms-3/be6fcf85dcecb8bd53c9f90aa92aeba4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3dbcf4a5a145dee61571bcca3268b00b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/3dbcf4a5a145dee61571bcca3268b00b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/f74f9070e9f72a4ab33332d84f800031/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/f74f9070e9f72a4ab33332d84f800031/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/c8b18e11eed404b34e03177a3b886560/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/c8b18e11eed404b34e03177a3b886560/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/4689a6556f9c1641220ee1508ea284ab/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/4689a6556f9c1641220ee1508ea284ab/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/804e98e5c612990ca77ffb010fbb7e68/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/804e98e5c612990ca77ffb010fbb7e68/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/71b96a32910e2f91f27334232b1c9780/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kalloldutta/.gradle/caches/transforms-3/71b96a32910e2f91f27334232b1c9780/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kalloldutta/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kalloldutta/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.romandanylyk:pageindicatorview:1.0.3] /Users/kalloldutta/.gradle/caches/transforms-3/e789ebb1e8d349c867344b8dab5609d0/transformed/jetified-pageindicatorview-1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.romandanylyk:pageindicatorview:1.0.3] /Users/kalloldutta/.gradle/caches/transforms-3/e789ebb1e8d349c867344b8dab5609d0/transformed/jetified-pageindicatorview-1.0.3/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kalloldutta/Desktop/NewsApp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kalloldutta/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kalloldutta/.gradle/caches/transforms-3/77cc0f34753f96ba7c5a2659a281396c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kalloldutta/.gradle/caches/transforms-3/c4e214f3db030bcb6889a17322dc8cbf/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/kalloldutta/.gradle/caches/transforms-3/91ca57bcb629875aa63fd7acf5b55281/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kalloldutta/.gradle/caches/transforms-3/6476efb55e77d8963adebbb159f8bfcb/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kalloldutta/.gradle/caches/transforms-3/60a8cbaa5ce6df653cd55115acbba8f6/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
