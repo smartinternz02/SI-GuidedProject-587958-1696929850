@@ -13,5 +13,5 @@ https://github.com/smartinternz02/SI-GuidedProject-587958-1696929850/tree/0a6f63
 GitHub & Project Demo Link –
 https://github.com/smartinternz02/SI-GuidedProject-587958-1696929850.git
 
-Demostration Video -
+Demonstration Video -
 https://drive.google.com/file/d/1-9HBmkarCBeE-H4KbQENT8LEq2w9qiqW/view?usp=share_link
